@@ -1,0 +1,26 @@
+{
+  "name": "wd201-l5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mo\t/i\t",
+  "dependencies": {
+    "jest": "^29.0.2",
+    "minimist": "^1.2.6",
+    "pg": "^8.8.0",
+    "sequelize": "^6.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeeTheng/WD201-L5.git"
+  },
+  "author": "Dipti Theng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeeTheng/WD201-L5/issues"
+  },
+  "homepage": "https://github.com/DeeTheng/WD201-L5#readme"
+}
